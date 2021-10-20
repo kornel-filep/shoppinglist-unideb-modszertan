@@ -1,0 +1,25 @@
+{
+  "userName": "Tatenda Heikki",
+  "emailAddress": "tatenda.heikki@mail.com",
+  "shoppingList": {
+    "name": "Marvel comics",
+    "entries": [
+      {
+        "amount": 0,
+        "itemName": "Eternals: Celestia #1"
+      },
+      {
+        "amount": 0,
+        "itemName": "New Mutants #22"
+      },
+      {
+        "amount": 0,
+        "itemName": "Deadpool: Black, White & Blood #3"
+      },
+      {
+        "amount": 0,
+        "itemName": "The Amazing Spider-Man #75"
+      }
+    ]
+  }
+}
