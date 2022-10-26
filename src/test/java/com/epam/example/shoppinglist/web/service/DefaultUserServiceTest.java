@@ -78,6 +78,7 @@ public class DefaultUserServiceTest {
 
         //then
         assertEquals(actual, expected);
+        assertEquals(1, 2);
         then(userDataAccessObject).should().getUserById(USER_ID);
         then(transformer).should().transform(entity);
     }
