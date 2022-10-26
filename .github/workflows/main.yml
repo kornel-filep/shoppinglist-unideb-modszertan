@@ -13,3 +13,7 @@ jobs:
       - run: mvn clean install
       - run: mvn verify
       - run: mvn jacoco:report
+      - uses: actions/upload-artifact@v3
+        with:
+          name: coverage-report
+          path: target/site/
