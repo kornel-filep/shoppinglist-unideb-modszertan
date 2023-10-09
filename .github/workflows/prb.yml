@@ -1,4 +1,4 @@
-name: Build and Test Main
+name: Pull request build
 on: [pull_request]
 jobs:
   build:
