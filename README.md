@@ -1,4 +1,4 @@
-# Shopping list application
+# Shopping list application - test
 An example project that used to demonstrate different aspect of the testing.
 
 # About the application
