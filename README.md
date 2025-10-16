@@ -18,3 +18,5 @@ Once you fired up the server you can use the http://localhost:8080/ address to r
 http://localhost:8080/swagger-ui.html for the swagger. 
 
 An example create-user-object also supplied in the project folder.
+
+2025 update to trigger build
